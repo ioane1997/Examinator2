@@ -23,7 +23,7 @@ const MainHeader = ({ darkMode, changeDarkMode }) => {
                             </svg>
                         </button>
                     </div>
-                    <div className="hidden left-0 absolute bg-white dark:bg-slate-700 lg:static top-[95%] w-full lg:flex p-2 lg:pl-11 shadow-xl lg:shadow-none rounded-b-lg" id="header-navbar">
+                    <div className="hidden s left-0 absolute bg-white dark:bg-slate-700 lg:static top-[95%] w-full lg:flex p-2 lg:pl-11 shadow-xl lg:shadow-none rounded-b-lg" id="header-navbar">
                         <ul className="flex items-center flex-col mt-4 lg:mt-0 lg:ml-auto lg:flex-row gap-4 lg:mr-5">
                             <li>
                                 <a href="javascript:;" className="flex items-center w-full justify-between text-lg hover:text-gray-400 dark:hover:text-slate-100 mb-2 md:mb-0">მთავარი</a>
